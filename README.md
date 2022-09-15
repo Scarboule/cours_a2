@@ -8,7 +8,7 @@
 
 *salut*
 
-> pierre qui roule
+> pierre qui roule n'ammasse pas mousse
 ```javascript
 console.log('salut')
 ```
