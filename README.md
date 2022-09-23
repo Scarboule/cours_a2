@@ -4,7 +4,7 @@
 
 * tache 1
 * tache 2
-    *tache 2-1
+    * tache 2-1
 
 *salut*
 
